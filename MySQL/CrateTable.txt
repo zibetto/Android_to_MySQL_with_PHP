@@ -1,0 +1,1 @@
+create  table login (id smallint unsigned not null auto_increment, username varchar(15) not null, passwd blob not null, primary key(id));
