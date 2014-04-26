@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+    <string name="dash_board_welcome">Welcome, </string>
+    <string name="app_name">Android_MySQL_PHP</string>
+    <string name="loginButton">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="usernameTextView">Username</string>
+    <string name="passwordTextView">Password</string>
+    <string name="registerButton">Register</string>
+    <string name="logo">logo image</string>
+    <string name="alertNoConnection">No Internet Connection. Open Network Settings?</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="alertLoginEmpty">Please type a valid username and password.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="errServerConnetionFailed">Server connection failed. Please try again later.</string>
+
+    <string-array name="alertLoginErrorCodes">
+        <item> Wrong username or password.</item>
+    </string-array>
+
+
+
+</resources>
