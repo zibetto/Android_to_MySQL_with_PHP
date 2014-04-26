@@ -1,5 +1,7 @@
 
-
+/**
+place this file in /var/www/
+*/
 <?PHP
 
 	
