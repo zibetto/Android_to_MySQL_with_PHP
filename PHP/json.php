@@ -12,7 +12,7 @@ if( isset($_POST["TAG"])){
 		if ($tag = $data->tag != null){
 			
 				//connect to database			
-				if ($db = new mysqli("127.0.0.1","root","ibm7094","myapp")){
+				if ($db = new mysqli("127.0.0.1","root","123456","myapp")){
 					$con_status ["Connected to DB:"] = "true";
 				//	echo json_encode($con_status);
 
